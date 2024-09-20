@@ -1,1 +1,2 @@
 This is a sample fileA
+using command to unstage a change
